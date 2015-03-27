@@ -1,4 +1,5 @@
-
+/*This program takes in inputs of different characters(more suitably animals) and terminates when input is "END". A bedtime
+story is then generated through the use of recursion.*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
